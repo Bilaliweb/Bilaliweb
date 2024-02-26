@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on JavaScript and Cypress Automation
-- 🌱 I’m also using Git to access code so it is easy to work with team
-- 👯 I’m looking to collaborate with JavaScript Developers
-- 🤔 I’m looking for help with Git
-- 💬 Ask me about Cypress
-- 📫 How to reach me: 
-- 😄 Pronouns: Bilal
-- ⚡ Fun fact: Caring, Loving and Helping and getting help in code 
-- 🙂 Always eager to learn something new for full stack development.
-- 🎭 In search of opportunity to work with super professionals from best companies
+- 🔭 I’m a JavaScript Developer
+- 🌱 I’m using Git for handling public and private repositories
+- 👯 I’m always looking to collaborate with Senior JavaScript Developers
+- 🤔 I usually use stackoverflow for error's solution when I'm stuck or sometimes ChatGPT
+- 😏 I also perform autmoation testing besides development mostly E2E testing
+- 😏 I use Cypress (mostly) for E2E automation testing and have also used Selenium but for a very short time
+- ⚡ Fun fact: Caring, Loving and Helping and getting and providing help in code 
+- 🙂 Always eager to learn something new related to development.
+- 🎭 Always try to have the opportunity to work with super professionals from best companies
