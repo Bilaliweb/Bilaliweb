@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a JavaScript Developer
-- 🌱 I’m using Git for handling public and private repositories
-- 👯 I’m always looking to collaborate with Senior JavaScript Developers
-- 🤔 I usually use stackoverflow for error's solution when I'm stuck or sometimes ChatGPT
-- 😏 I also perform autmoation testing besides development mostly E2E testing
-- 😏 I use Cypress (mostly) for E2E automation testing and have also used Selenium but for a very short time
-- ⚡ Fun fact: Caring, Loving and Helping and getting and providing help in code 
-- 🙂 Always eager to learn something new related to development.
-- 🎭 Always try to have the opportunity to work with super professionals from best companies
+🔭 I’m a passionate JavaScript Developer.
+💻 My development stack includes React.js for frontend and Node.js for backend.
+🌱 I actively use Git to manage public and private repositories efficiently.
+👯 I’m always open to collaborating with Senior JavaScript Developers to grow and share knowledge.
+🤔 For troubleshooting, I rely on Stack Overflow or ChatGPT to find effective solutions.
+😏 Alongside development, I specialize in automation testing, primarily End-to-End (E2E) testing.
+😏 Depending on the client's requirements, I utilize Cypress or Playwright for E2E automation testing.
+⚡ Fun fact: I’m all about caring, loving, and helping others—especially in coding. Collaboration is my superpower!
+🙂 I’m constantly eager to explore and learn the latest technologies to stay ahead in the field.
+🎭 I always strive to work with top-tier professionals from leading companies to push boundaries and excel together.
