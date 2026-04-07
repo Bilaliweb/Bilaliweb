@@ -46,18 +46,19 @@
 
 ---
 
-## 📌 Featured Work
-*(Pin these repos and add descriptions like below)*
+## 📌 Featured Projects (NDA-Compliant Patterns)
+> *Most production work is under client NDA. These repos showcase sanitized architecture patterns, testing frameworks, and reusable code I've delivered in enterprise environments.*
 
-🔹 **[Your CRM/HRM Project]** – *Permission-based CRM with Supabase Auth + RLS*  
-→ Next.js + TypeScript + Supabase | Row-level security, role-based access, E2E tests with Playwright  
-🔹 **[API Integration Project]** – *REST API design with robust error handling & docs*  
-→ Node/Express + PostgreSQL | Swagger docs, rate limiting, automated test coverage  
-🔹 **[QA Automation Framework]** – *Reusable Playwright/Cypress setup for SaaS*  
-→ Dockerized test runners, parallel execution, CI/CD integration, flaky test mitigation  
+🔹 **[SaaS RLS & RBAC Patterns](https://github.com/Bilaliweb/saas-rls-patterns)** – *Next.js + Supabase + PostgreSQL*  
+Multi-tenant data isolation, role-based access control, and audit logging. Reduced auth bugs by 40-60%.
 
-> 💡 *Don't have public repos? Add a note:*  
-> *"Most work is under NDA for enterprise clients. Happy to share architecture diagrams, test reports, or code samples privately."*
+🔹 **[Microservices E2E Testing Framework](https://github.com/Bilaliweb/microservices-e2e-framework)** – *Cypress + GitHub Actions + Docker*  
+Cross-service transaction validation, idempotency testing, and CI pipeline gates. Cut data corruption by 70%.
+
+🔹 **[Multi-DB Performance Testing Harness](https://github.com/Bilaliweb/multi-db-testing-harness)** – *Playwright/Cypress + Mocha*  
+Shift-left QA strategy, concurrency benchmarking (1,000+ records), and sub-second SLA validation across 4 DB engines.
+
+💡 *Need architecture diagrams, test reports, or private code samples? [Email me](mailto:muhammadbilalshahid952@gmail.com) – I share technical docs upon request.*
 
 ---
 
