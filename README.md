@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="33%">
       <b>🧪 QA & Test Automation</b><br><br>
-      <img src="https://cdn.simpleicons.org/cypress/17202C" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Cypress"/>
+      <img src="https://cdn.simpleicons.org/cypress" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Cypress"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Playwright"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="GitHub Actions"/>
       <br><br>
