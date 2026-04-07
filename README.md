@@ -8,13 +8,39 @@
 ---
 
 ## 💡 What I Deliver
-> I build **secure, scalable, and compliant** web applications – with end-to-end ownership from architecture to automated testing.
+> End-to-end ownership of secure, scalable, and test-driven web applications.
 
-✅ **Full-Stack Development**: Next.js, React, Node.js, Express, TypeScript, Tailwind CSS  
-✅ **Backend & Data**: PostgreSQL, Supabase (Auth, Storage, RLS), REST API Design, Multi-tenant Architecture  
-✅ **QA Automation**: Playwright & Cypress for E2E testing, CI/CD integration, flaky test debugging  
-✅ **Enterprise-Ready**: GDPR-compliant data handling, audit logging, SSO-ready auth, row-level security (RLS)  
-✅ **DevOps Lite**: Docker, GitHub Actions, GitLab CI, efficient Git workflows  
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>🌐 Full-Stack Engineering</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Next.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="React"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Node.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="TypeScript"/>
+      <br><br>
+      <sub>Production-ready UIs • Server Components • Secure API contracts • TypeScript-first development</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🗄️ Backend & Data Architecture</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Supabase"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Docker"/>
+      <br><br>
+      <sub>Row-Level Security (RLS) • Multi-tenant design • Audit logging • GDPR-ready data isolation</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🧪 QA & Test Automation</b><br><br>
+      <img src="https://cdn.simpleicons.org/cypress/17202C" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Cypress"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="Playwright"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="28" style="margin: 0 8px; vertical-align: middle;" alt="GitHub Actions"/>
+      <br><br>
+      <sub>E2E testing • Cross-service validation • CI/CD pipeline gates • Flaky test debugging</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 *5+ years delivering for HRM, CRM, and multi-tenant SaaS platforms – with a focus on maintainability, testing coverage, and client outcomes.*
 
